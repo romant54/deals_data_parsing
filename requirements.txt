@@ -1,0 +1,11 @@
+fastapi
+uvicorn
+httpx
+pydantic<2
+pytest
+pytest-asyncio
+sqlalchemy
+psycopg2-binary
+xmltodict
+python-dateutil
+python-multipart
